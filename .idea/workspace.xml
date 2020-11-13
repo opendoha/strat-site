@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="273484ca-ecab-4cc5-8615-a2c75ff56886" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3K8i0SIHlNlXeIG3blFKh6rP7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Charles\PhpstormProjects\Peypouze" />
+      <recent name="C:\Users\Charles\PhpstormProjects\Peypouze\donjons" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="273484ca-ecab-4cc5-8615-a2c75ff56886" name="Default Changelist" comment="" />
+      <created>1604923678088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604923678088</updated>
+      <workItem from="1604923679357" duration="8391000" />
+      <workItem from="1604975904482" duration="1313000" />
+      <workItem from="1605014796835" duration="3094000" />
+      <workItem from="1605145181205" duration="4258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1920" y="90" width="1936" height="1127" key="dock-window-1" timestamp="1605146492861">
+      <screen x="-1920" y="90" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="90" width="1936" height="1127" key="dock-window-1/2560.90.1920.1040/-1920.90.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1605146492861" />
+  </component>
+</project>
